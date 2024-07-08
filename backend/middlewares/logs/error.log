@@ -1,0 +1,80 @@
+2024-06-06T10:35:12.036Z - Expected double-quoted property name in JSON at position 27 (line 3 column 1)
+SyntaxError: Expected double-quoted property name in JSON at position 27 (line 3 column 1)
+    at JSON.parse (<anonymous>)
+    at parse (D:\Projects\Dags\Backend\node_modules\body-parser\lib\types\json.js:92:19)
+    at D:\Projects\Dags\Backend\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (D:\Projects\Dags\Backend\node_modules\raw-body\index.js:238:16)
+    at done (D:\Projects\Dags\Backend\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (D:\Projects\Dags\Backend\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+
+2024-06-18T12:20:34.482Z - Expected double-quoted property name in JSON at position 35
+SyntaxError: Expected double-quoted property name in JSON at position 35
+    at JSON.parse (<anonymous>)
+    at parse (/home/oikoshreem/Downloads/dags new/backend/node_modules/body-parser/lib/types/json.js:92:19)
+    at /home/oikoshreem/Downloads/dags new/backend/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (/home/oikoshreem/Downloads/dags new/backend/node_modules/raw-body/index.js:238:16)
+    at done (/home/oikoshreem/Downloads/dags new/backend/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/home/oikoshreem/Downloads/dags new/backend/node_modules/raw-body/index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1589:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+
+2024-06-19T09:19:40.414Z - Expected double-quoted property name in JSON at position 27
+SyntaxError: Expected double-quoted property name in JSON at position 27
+    at JSON.parse (<anonymous>)
+    at parse (/home/oikoshreem/Downloads/dags new/backend/node_modules/body-parser/lib/types/json.js:92:19)
+    at /home/oikoshreem/Downloads/dags new/backend/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (/home/oikoshreem/Downloads/dags new/backend/node_modules/raw-body/index.js:238:16)
+    at done (/home/oikoshreem/Downloads/dags new/backend/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/home/oikoshreem/Downloads/dags new/backend/node_modules/raw-body/index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1589:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+
+2024-06-19T09:20:19.573Z - Unexpected end of JSON input
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (/home/oikoshreem/Downloads/dags new/backend/node_modules/body-parser/lib/types/json.js:169:10)
+    at parse (/home/oikoshreem/Downloads/dags new/backend/node_modules/body-parser/lib/types/json.js:86:15)
+    at /home/oikoshreem/Downloads/dags new/backend/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (/home/oikoshreem/Downloads/dags new/backend/node_modules/raw-body/index.js:238:16)
+    at done (/home/oikoshreem/Downloads/dags new/backend/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/home/oikoshreem/Downloads/dags new/backend/node_modules/raw-body/index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1589:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+
+2024-06-19T09:20:54.160Z - Unexpected end of JSON input
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (/home/oikoshreem/Downloads/dags new/backend/node_modules/body-parser/lib/types/json.js:169:10)
+    at parse (/home/oikoshreem/Downloads/dags new/backend/node_modules/body-parser/lib/types/json.js:86:15)
+    at /home/oikoshreem/Downloads/dags new/backend/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (/home/oikoshreem/Downloads/dags new/backend/node_modules/raw-body/index.js:238:16)
+    at done (/home/oikoshreem/Downloads/dags new/backend/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/home/oikoshreem/Downloads/dags new/backend/node_modules/raw-body/index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1589:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+
+2024-06-19T11:10:36.695Z - Expected double-quoted property name in JSON at position 92
+SyntaxError: Expected double-quoted property name in JSON at position 92
+    at JSON.parse (<anonymous>)
+    at parse (/home/oikoshreem/Downloads/dags new/backend/node_modules/body-parser/lib/types/json.js:92:19)
+    at /home/oikoshreem/Downloads/dags new/backend/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (/home/oikoshreem/Downloads/dags new/backend/node_modules/raw-body/index.js:238:16)
+    at done (/home/oikoshreem/Downloads/dags new/backend/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/home/oikoshreem/Downloads/dags new/backend/node_modules/raw-body/index.js:287:7)
+    at IncomingMessage.emit (node:events:514:28)
+    at endReadableNT (node:internal/streams/readable:1589:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+

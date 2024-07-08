@@ -1,0 +1,4 @@
+/backend/node_modules/
+/dagsadmin/node_modules/
+/backend/.env
+/dagsadmin/.env
